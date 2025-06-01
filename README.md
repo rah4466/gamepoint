@@ -1,0 +1,2 @@
+# gamepoint
+game only
